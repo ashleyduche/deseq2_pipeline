@@ -69,7 +69,7 @@ Running the script writes to `deseq2_pipeline/results/`:
 - `combat_seq_corrected_counts.csv` — the ComBat-seq-corrected count matrix.
 - `sessionInfo.txt` — exact package versions used, for reproducibility.
 
-## Pipeline script (`deseq2_pipeline/scripts/deseq2_pipeline.R`)
+###  Pipeline script (`deseq2_pipeline/scripts/deseq2_pipeline.R`)
 
 ## References 
 
